@@ -7,8 +7,9 @@ From Armenia
 
 
 Got my Bachelor degree in ***Mendeleev University of Chemical Technology of Russia***, biotechnology department
-##### ![MUCTR](https://www.muctr.ru/logo.png)
 
+<a href="https://www.skoltech.ru/"><img src="https://www.muctr.ru/logo.png" align="right" height="368.8" width="325" ></a>
 
 Got interested in *immunology*(yeah I know, press F), now working on TCR analysis
+
 Wonder if someday will manage to become bionformatician, ***NikitaOksana*** helping on my way
